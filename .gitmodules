@@ -1,0 +1,3 @@
+[submodule "fe2s2/Active-space-model-for-Iron-Sulfur-Clusters"]
+	path = fe2s2/Active-space-model-for-Iron-Sulfur-Clusters
+	url = git@github.com:zhendongli2008/Active-space-model-for-Iron-Sulfur-Clusters.git
